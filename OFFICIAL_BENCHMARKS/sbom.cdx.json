@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:5995d37a-8726-5c72-bde1-86c8c1b289a3",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-06T08:19:35Z",
+    "component": {
+      "type": "application",
+      "name": "TFEL",
+      "version": "83b357604d34",
+      "bom-ref": "pkg:generic/anticloud/TFEL@83b357604d34",
+      "purl": "pkg:generic/anticloud/TFEL@83b357604d34",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": ""
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
