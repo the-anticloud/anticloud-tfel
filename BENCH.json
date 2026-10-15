@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "ff3fa7eb3359ac67d532345c9971bcb1401c9f8f",
-   "url": "https://github.com/popcornell/tfelm",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master"
+   "url": "https://github.com/thelfer/tfel",
+   "head": "ff0959eceb602a0ab0e2e455afd9193a2cd725db",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/popcornell/tfelm"
   }
  }
 }
